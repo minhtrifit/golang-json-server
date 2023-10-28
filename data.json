@@ -1,0 +1,40 @@
+{
+  "accounts": [
+    {
+      "id": 100,
+      "username": "kazuya123",
+      "password": "kazuya123"
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "name": "Chizuru Mizuhara",
+      "age": 21,
+      "rate": 5.0,
+      "description": "Perfect girlfriend"
+    },
+    {
+      "id": 2,
+      "name": "Ruka Sarashina",
+      "age": 19,
+      "rate": 5.0,
+      "description": "Nice girl"
+    },
+    {
+      "id": 3,
+      "name": "Mami Nanami",
+      "age": 21,
+      "rate": 4.7,
+      "description": "Red flower"
+    },
+    {
+      "id": 4,
+      "name": "Sumi Sakurasawa",
+      "age": 18,
+      "rate": 4.5,
+      "description": "Cute baby"
+    }
+  ],
+  "booking": []
+}
